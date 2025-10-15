@@ -1,0 +1,14 @@
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\bin\Debug\net8.0\ProyectoAlgoritmo.exe
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\bin\Debug\net8.0\ProyectoAlgoritmo.deps.json
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\bin\Debug\net8.0\ProyectoAlgoritmo.runtimeconfig.json
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\bin\Debug\net8.0\ProyectoAlgoritmo.dll
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\bin\Debug\net8.0\ProyectoAlgoritmo.pdb
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\obj\Debug\net8.0\ProyectoAlgoritmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\obj\Debug\net8.0\ProyectoAlgoritmo.AssemblyInfoInputs.cache
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\obj\Debug\net8.0\ProyectoAlgoritmo.AssemblyInfo.cs
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\obj\Debug\net8.0\ProyectoAlgoritmo.csproj.CoreCompileInputs.cache
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\obj\Debug\net8.0\ProyectoAlgoritmo.dll
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\obj\Debug\net8.0\refint\ProyectoAlgoritmo.dll
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\obj\Debug\net8.0\ProyectoAlgoritmo.pdb
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\obj\Debug\net8.0\ProyectoAlgoritmo.genruntimeconfig.cache
+C:\Users\76891\source\repos\ProyectoAlgoritmo\ProyectoAlgoritmo\obj\Debug\net8.0\ref\ProyectoAlgoritmo.dll
